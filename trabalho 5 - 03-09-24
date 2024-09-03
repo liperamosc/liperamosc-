@@ -1,0 +1,6 @@
+nomes = ['Pedro', 'João', 'Leticia']
+for n in nomes:
+    print(n)
+    idade = 18
+if idade < 20:
+    print('Você é jovem!')
